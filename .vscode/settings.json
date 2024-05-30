@@ -1,0 +1,10 @@
+{
+  "editor.rulers": [
+    80
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "markdownlint.autoFix": "explicit"
+  },
+  "trailing-spaces.trimOnSave": true
+}
